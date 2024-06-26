@@ -2,7 +2,7 @@
 
 😉 I am Siyu Ren.
 
-🎓 I got my Bachelor degree from Tong Ji University and recently obtained my Ph.D degree at Shanghai Jiao Tong University. 
+🎓 I got my Bachelor degree from Tong Ji University and Ph.D degree at Shanghai Jiao Tong University. 
 
 🔎 Currently, my research interest includes Efficient Methods for NLP/Large Language Models and techniques around mechanistic understanding of LLMs.
 
